@@ -1,2 +1,3 @@
 # hbupload
-A command line utility that uses hastebin.com as a cloud server to temporarily host public files
+A command line utility for uploading and downloading files to and from hastebin.com  
+It's pretty much completely useless  
