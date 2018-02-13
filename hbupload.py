@@ -1,6 +1,3 @@
-#possible errors:
-    #connection, 'key' isn't part of the returned json, 404 if shard doesnt exist
-
 import requests as req
 import sys
 import json
